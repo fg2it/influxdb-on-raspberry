@@ -1,7 +1,9 @@
 # influxdb-on-raspberry
 [Influxdb](http://influxdb.com) *unofficial* packages for arm based raspberry pi.
 
-Influxdb doesn't provide packages for arm, so these packages are here
+**You should look into [official packages](https://influxdata.com/downloads/#influxdb) now that official arm binaries are provided**
+
+In the past, Influxdb didn't provide packages for arm, so these packages were here
 to allow easy install.
 
 Packages were build on a raspberry pi 2 running raspbian (2015-05-05) from the Influxdb
